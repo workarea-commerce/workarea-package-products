@@ -1,3 +1,6 @@
+This plugin is deprecated. Check out [product bundles](https://github.com/workarea-commerce/workarea-product-bundles) for the latest and greatest!
+--------------------------------------------------------------------------------
+
 Workarea Package Products
 ================================================================================
 
