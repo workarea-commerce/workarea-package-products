@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.license = 'Business Software License'
   s.test_files = Dir['spec/**/*']
 
-  s.required_ruby_version = '>= 2.3.0'
+  s.required_ruby_version = ['>= 2.7', '< 3.5']
 
   s.add_dependency 'workarea', '~> 3.x', '>= 3.5.9'
 end
